@@ -40,7 +40,7 @@ function setup() {
  // img.filter(BLUR, 4); //图像滤镜，模糊背景
 
   vidElement = createVideo("singer.mp4", afterLoad);
-  vidElement.position(250, 50);
+  vidElement.position(450, 50);
   vidElement.size(700,800);
   //  // noLoop();
 }
