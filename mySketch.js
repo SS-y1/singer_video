@@ -28,7 +28,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1200, 800);  //创建画布
+  createCanvas(1600, 800);  //创建画布
   angleMode(DEGREES);  //angleMode()函数用于设置解释角度的模式。可以将其设置为度或弧度。这里为度
   peoSong.play();  //播放人声音乐
   backSong.play();  //播放背景音乐
